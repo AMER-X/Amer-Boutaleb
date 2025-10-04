@@ -5,9 +5,18 @@
 
 ---
 
+# 👋 Hi, I’m **Ameur Boutaleb**
+
+🎓 Computer Science student @ **ESI Sidi Bel Abbès**  
+💡 Passionate about **Programming, Linux, AI & Problem Solving**  
+🌍 From **Algeria** – curious explorer of the world and technology  
+✨ Always striving to **learn, improve, and stand out in my field**  
+
+---
+
 ### 🎧 Busy coding & vibing to:
 <details>
-  <summary>Click to see Spotify Status</summary>
+  <summary>Click to see my Spotify</summary>
   
   [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 </details>
@@ -20,7 +29,18 @@
 
 ---
 
-## 🚀 Tools & Technologies
+## 🌱 About Me  
+
+- 🧑‍💻 I’m currently learning **Frappe Framework & Advanced Linux**.  
+- 🐧 Enthusiast of **GNU/Linux** and open-source philosophy.  
+- 🛠️ Love working on **building projects, solving problems & experimenting**.  
+- 📚 Interested in **self-development, reading, and continuous learning**.  
+- 🎬 Outside tech, I enjoy **movies, music, and exploring new cultures**.  
+- ⚡ Fun fact: *Consistency beats talent when talent doesn’t work hard.*  
+
+---
+
+## 🛠️ Tech Stack  
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -28,30 +48,21 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 
 ```dart
-// tools_I_use organized
+// Tools I use
 
-class About extends Me { 
+class AboutMe { 
   const myTools = {  
-    "ProgrammingLanguages" : { "Dart", "Go", "Python", "JavaScript", "Java", "C++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Markdown" },
-    "Database" : { "Firebase", "SQLite", "PostgreSQL" },
-    "Editors" : { "VS Code", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+    "Programming" : { "Dart", "Go", "Python", "JavaScript", "Java", "C++" },
+    "Databases" : { "Firebase", "SQLite", "PostgreSQL" },
+    "Editors" : { "VS Code", "Neovim", "Sublime" },
+    "Platforms" : { "GNU/Linux", "Windows", "MacOS" },
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp" }
   };
 }
